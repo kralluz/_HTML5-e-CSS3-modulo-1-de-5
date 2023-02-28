@@ -1,0 +1,26 @@
+* {
+  margin: 10px;
+  padding: 10px;
+}
+
+body {
+  margin: 10px 10px;
+  background-color: #2b2b2b;
+  color: #d3d3d3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+footer {
+  background-color: #333;
+  color: #999;
+  font-size: 12px;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+video {
+  margin: 20px 20px 20px 20px;
+  align-items: center;
+}
